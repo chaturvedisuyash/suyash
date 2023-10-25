@@ -1,0 +1,13 @@
+>>> s="durga/nsoftware
+>>> print(s)
+durga
+software
+>>> s="durga/tsoftware"
+>>> print(s)
+durga software
+>>> s="this is"symbol"
+                       ^
+syntaxerror: invalid syntax 
+>>> s="this is /"symbol"
+>>>print(s)
+this is "symbol
