@@ -14,6 +14,8 @@ body{
 <img src = "animation/a.gif"  width = "22%"/>&emsp;&ems;&emsp;
 <img src = "animation/b.gif"  width = "11%"/>&emsp;
 <img src = "animation/c.gif"  width = "4%"/>&nbsp;
+<img src ="img_animation.gif" alt ="dog running at sky background">
+<p style="background-image : url ('img_animation.txt');">
 </marquee>
 </body>
 </html>
